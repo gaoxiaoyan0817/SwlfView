@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="addDecStyle">
+        <attr name="textBackGround" format="color"></attr>
+        <attr name="max" format="integer"></attr>
+        <attr name="addText" format="string"></attr>
+        <attr name="decText" format="string"></attr>
+    </declare-styleable>
+</resources>
