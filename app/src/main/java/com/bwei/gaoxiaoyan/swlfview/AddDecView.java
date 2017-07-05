@@ -12,7 +12,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 /**
- * user:高肖燕
+ * user:高肖燕  luccc第一次修改
  * date: 2017/6/15    20:41
  */
 
